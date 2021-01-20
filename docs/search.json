@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-01-19T18:20:16-08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Sydney Rilum",
+      "author": [],
+      "contents": "\n\n          \n      \n      SR\n      \n      \n      Home\n      About\n      ☰\n      \n      \n      \n        \n          \n            Sydney Rilum\n          \n          \n            \n              I am a cool!\n            \n            \n              I am a cool!\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-01-19T18:20:16-08:00"
+    }
+  ],
+  "collections": []
+}
